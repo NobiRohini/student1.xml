@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE student SYSTEM "student1.dtd"> 
+<student> 
+    <firstname>subhasree</firstname> 
+    <lastname>siram</lastname> 
+    <role>student1</role> 
+    <dept>csit</dept> 
+    <fees>20</fees> 
+</student>
